@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Adham, Full-Stack Software Engineer. Aswan, Egypt. Arabic and English. ERP, mobile and realtime systems."/>
+<img src="assets/banner.svg" width="100%" alt="Adham, Full-Stack Software Engineer. Aswan, Egypt. Arabic and English. ERP systems, mobile apps, realtime."/>
 
 <br/><br/>
 
 <!-- Replace YOUR_EMAIL and YOUR_HANDLE, then delete this comment line -->
-<a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=2dd4bf"/></a>
-<a href="https://www.linkedin.com/in/YOUR_HANDLE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff"/></a>
-<a href="https://github.com/do-omitech"><img alt="GitHub" src="https://img.shields.io/badge/do--omitech-0d1117?style=for-the-badge&logo=github&logoColor=f0f6fc"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="assets/contact-email.svg" width="32.5%" alt="Email: send a message"/></a><!--
+--><a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="assets/contact-linkedin.svg" width="32.5%" alt="LinkedIn: connect with me"/></a><!--
+--><a href="https://github.com/do-omitech"><img src="assets/contact-github.svg" width="32.5%" alt="GitHub: @do-omitech"/></a>
 
 <br/><br/>
 
@@ -35,6 +35,6 @@
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Open to freelance and contract work: ERP systems, mobile apps, performance."/>
+<img src="assets/footer.svg" width="100%" alt="Open to freelance and contract work: ERP systems, mobile apps, realtime."/>
 
 </div>
